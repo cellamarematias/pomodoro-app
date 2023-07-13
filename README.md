@@ -33,4 +33,6 @@ Before running the app, make sure you have the following installed:
    expo start
 
 ```
+![WhatsApp Image 2023-07-13 at 13 45 58](https://github.com/cellamarematias/pomodoro-app/assets/88092713/f8bf3f5a-d403-43d8-a9e7-ed0ed70d68cf)
+![WhatsApp Image 2023-07-13 at 13 45 59](https://github.com/cellamarematias/pomodoro-app/assets/88092713/98448225-f539-466d-a3a0-e102a4de4a9d)
 
