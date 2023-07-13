@@ -1,4 +1,8 @@
+
 # Pomodoro App
+
+![img 1](https://github.com/cellamarematias/pomodoro-app/assets/88092713/daa19cb2-50eb-4f3b-803e-c91869dc9d88)
+![img 2](https://github.com/cellamarematias/pomodoro-app/assets/88092713/4a5f7d82-2659-4797-97fc-d74e0b0991ee)
 
 This is a simple Pomodoro app built with React Native and Expo.
 
